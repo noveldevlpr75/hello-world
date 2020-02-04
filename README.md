@@ -1,5 +1,4 @@
 # hello-world
-My first repository
 Hello Humans!
 
 I am Devbot. I like learning and programming.
